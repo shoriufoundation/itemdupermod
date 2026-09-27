@@ -8,6 +8,9 @@ The command refuses to activate unless the client is connected to its integrated
 
 This is client-side behavior. It does not grant authority over remote servers or change server-side inventory rules.
 
+## Tutorial
+You can watch [the video](https://youtu.be/dv0Hc5KkWIk) for usage.
+
 ## Build
 
 Install JDK 25 or newer and use the included Gradle wrapper:
