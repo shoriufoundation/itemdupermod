@@ -1,0 +1,7 @@
+{
+  "required": true,
+  "package": "az.org.shoriufoundation.itemduper.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "client": ["ItemStackMixin"],
+  "injectors": { "defaultRequire": 1 }
+}

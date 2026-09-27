@@ -1,0 +1,44 @@
+
+# Gradle
+.gradle/
+build/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Java
+*.class
+
+# Fabric / Minecraft development
+run/
+logs/
+crash-reports/
+.minecraft/
+
+# Generated / local files
+outputs/
+work/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Local environment / secrets
+.env
+.env.*
+!.env.example
